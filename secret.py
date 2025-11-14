@@ -1,1 +1,1 @@
-clientSecret=Bolinha
+token=Bolinha
