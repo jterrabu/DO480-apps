@@ -1,7 +1,0 @@
-spring:
-  security:
-    oauth2:
-      client:
-        registration:
-          minha-app:
-            client-secret: aSd123KJHSAD823hsdasj823hASD823
