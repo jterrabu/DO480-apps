@@ -4,4 +4,4 @@ spring:
       client:
         registration:
           poc:
-            client-secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+            client-secret: 23FA9bc8-fd77-48d8-9F4d-2a3d9Efad981
